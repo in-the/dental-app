@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dental-app/static/css/main.5ee20103.css",
-    "main.js": "/dental-app/static/js/main.cf49c3b0.js",
+    "main.js": "/dental-app/static/js/main.0a5c855e.js",
     "static/js/787.be1f2c92.chunk.js": "/dental-app/static/js/787.be1f2c92.chunk.js",
     "static/media/mronj.png": "/dental-app/static/media/mronj.a5381d19d0da9fa3cf7b.png",
     "static/media/ceramic-crown-11.png": "/dental-app/static/media/ceramic-crown-11.2c8c0e41076ccb03022c.png",
@@ -68,11 +68,11 @@
     "static/media/saved-icon.png": "/dental-app/static/media/saved-icon.9dbbbe08b7b221c4bc1c.png",
     "index.html": "/dental-app/index.html",
     "main.5ee20103.css.map": "/dental-app/static/css/main.5ee20103.css.map",
-    "main.cf49c3b0.js.map": "/dental-app/static/js/main.cf49c3b0.js.map",
+    "main.0a5c855e.js.map": "/dental-app/static/js/main.0a5c855e.js.map",
     "787.be1f2c92.chunk.js.map": "/dental-app/static/js/787.be1f2c92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ee20103.css",
-    "static/js/main.cf49c3b0.js"
+    "static/js/main.0a5c855e.js"
   ]
 }
