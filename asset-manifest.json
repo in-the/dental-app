@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dental-app/static/css/main.5ee20103.css",
-    "main.js": "/dental-app/static/js/main.0a5c855e.js",
+    "main.css": "/dental-app/static/css/main.d78a1b2c.css",
+    "main.js": "/dental-app/static/js/main.1eb8619a.js",
     "static/js/787.be1f2c92.chunk.js": "/dental-app/static/js/787.be1f2c92.chunk.js",
     "static/media/mronj.png": "/dental-app/static/media/mronj.a5381d19d0da9fa3cf7b.png",
     "static/media/ceramic-crown-11.png": "/dental-app/static/media/ceramic-crown-11.2c8c0e41076ccb03022c.png",
@@ -17,6 +17,7 @@
     "static/media/chip-filling.jpg": "/dental-app/static/media/chip-filling.7ba1663b2983e6a1c49f.jpg",
     "static/media/alveolar-osteitis.png": "/dental-app/static/media/alveolar-osteitis.4b680cf4994fe51def35.png",
     "static/media/rct-procedures.jpg": "/dental-app/static/media/rct-procedures.dab7a319b52015bd13ec.jpg",
+    "static/media/script-pad-example.png": "/dental-app/static/media/script-pad-example.c66b7fba15adcf97b111.png",
     "static/media/ledge.png": "/dental-app/static/media/ledge.538faa3d0ece53fddfdb.png",
     "static/media/third-molar-classification-summary.png": "/dental-app/static/media/third-molar-classification-summary.337e5fd2d97b7584abb4.png",
     "static/media/instrument-separation.png": "/dental-app/static/media/instrument-separation.b4447405d39a734f5146.png",
@@ -67,12 +68,12 @@
     "static/media/position-a.png": "/dental-app/static/media/position-a.fd68ea7b8408d83cc2b6.png",
     "static/media/saved-icon.png": "/dental-app/static/media/saved-icon.9dbbbe08b7b221c4bc1c.png",
     "index.html": "/dental-app/index.html",
-    "main.5ee20103.css.map": "/dental-app/static/css/main.5ee20103.css.map",
-    "main.0a5c855e.js.map": "/dental-app/static/js/main.0a5c855e.js.map",
+    "main.d78a1b2c.css.map": "/dental-app/static/css/main.d78a1b2c.css.map",
+    "main.1eb8619a.js.map": "/dental-app/static/js/main.1eb8619a.js.map",
     "787.be1f2c92.chunk.js.map": "/dental-app/static/js/787.be1f2c92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ee20103.css",
-    "static/js/main.0a5c855e.js"
+    "static/css/main.d78a1b2c.css",
+    "static/js/main.1eb8619a.js"
   ]
 }
